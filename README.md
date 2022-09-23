@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @M4ckl
+- 👋 Hi, I’m @M4K
 - 👀 I’m interested in back-end engineering
-- 🌱 I’m currently learning puthon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 i have instagramm M4K_1  
+- 📫 misharomaniuk15@icloud.com 
 
 <!---
 M4ckl/M4ckl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
