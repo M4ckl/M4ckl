@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M4K
+- 👋 Hi, I’m Michail and a student
 - 👀 I’m interested in back-end engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java,golang
 - 💞️ I’m looking to collaborate on projects
 - 📫 misharomaniuk15@icloud.com 
 
