@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&color=%2336BCF7&lines=Hi,+i+am+Michail+Romaniuk;I+wanna+to+be+full+stack+developer;)](https://git.io/typing-svg)
 
-                                                                    <h5>About me</h5>
+<strong>About me</strong>:
 
 I am 18 years old and love software development.I speak russian and english;
 
@@ -23,3 +23,14 @@ My back-end skills:
  </ul>
 
 You can find my labs and projects on repositories;
+
+You can find me there:
+
+<a href="t.me/svertolovsky_toksik">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://instagram.com/michuilll4l4l4l4l?igshid=YmMyMTA2M2Y=">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+<strong>Things | I code with:</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,golang,postgresql,linux,git,docker,github,figma,blender,idea)](https://skillicons.dev)
+
+intrested in:
