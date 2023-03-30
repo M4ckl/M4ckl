@@ -26,7 +26,7 @@ You can find my labs and projects on repositories;
 
 You can find me there:
 
-<a href="t.me/svertolovsky_toksik">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="t-do.ru/svertolovsky_toksik">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://instagram.com/michuilll4l4l4l4l?igshid=YmMyMTA2M2Y=">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <strong>Things | I code with:</strong>
