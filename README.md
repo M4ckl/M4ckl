@@ -20,15 +20,15 @@ My back-end skills:
   <li>java</li>
   <li>golang</li>
  </ul>
+ 
+<p>You can find my labs and projects on repositories;</p>
 <div align="center">
-  <p align="center">You can find my labs and projects on repositories;</p>
-
-  <p align="center">You can find me there:</p>
+  <p align="center"><strong>You can find me there:</strong></p>
 
   <a href="https://t.me/svertolovsky_toksik">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
   <a href="https://instagram.com/michuilll4l4l4l4l?igshid=YmMyMTA2M2Y=">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-  <p align="center"><strong>🛠 Things | I code with:</strong></p>
+  <h4 align="center"><strong>🛠 Things | I code with:</strong></h4>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,golang,postgresql,linux,git,docker,github,figma,blender,idea)](https://skillicons.dev)
 
