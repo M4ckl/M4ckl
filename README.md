@@ -41,8 +41,11 @@ My back-end skills:
   ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
   
 <p><strong>📊My stats:</strong></p>
-</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=M4ckl&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4ckl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4ckl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 
