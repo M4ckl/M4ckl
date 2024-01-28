@@ -16,8 +16,6 @@ My front-end skills:
 My back-end skills:
 <ul>
   <li>python</li>
-  <li>postgresql</li>
-  <li>java</li>
   <li>golang</li>
   <li>swift</li>
  </ul>
@@ -31,19 +29,7 @@ My back-end skills:
 
   <h4 align="center"><strong>🛠 Things | I work with:</strong></h4>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,golang,postgresql,linux,git,docker,github,figma,blender,idea)](https://skillicons.dev)
-
-  <p>intrested in:</p>
-
-  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,python,golang,linux,git,docker,github,figma,swift)](https://skillicons.dev)  
   
-  
-<p><strong>📊My stats:</strong></p>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4ckl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M4ckl&theme=dark)](https://git.io/streak-stats)
-  
-</div>
 
 
