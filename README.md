@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?align=center&color=%2336BCF7&lines=Hi,+i+am+Michail+Romaniuk;I+want+to+be+mobile+developer;Welcome)
+![Typing SVG](https://readme-typing-svg.demolab.com/?align=center&color=%2336BCF7&lines=Hi,+i+am+Michail+Romaniuk;I+want+to+be+a+mobile+developer;Welcome)
 <p align="center"><strong>🧑‍💻About me:</strong><p>
 
 I am 19 years old and love ios development.I speak russian, english and polish;
