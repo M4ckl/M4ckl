@@ -29,7 +29,7 @@ My main skills:
 
   <h4 align="center"><strong>🛠 Things | I work with:</strong></h4>
 
-  [![My Skills](https://skillicons.dev/icons?i=swift,linux,ios,java,figma,docker,git,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=swift,linux,java,figma,docker,git,python)](https://skillicons.dev)
 
 
 
