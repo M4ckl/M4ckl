@@ -30,6 +30,8 @@ My main skills:
   <h4 align="center"><strong>🛠 Things | I work with:</strong></h4>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,python,golang,linux,git,docker,github,figma,swift)](https://skillicons.dev)  
-  
+  ![image](https://github.com/user-attachments/assets/d82de15b-edd0-42be-8960-35b8c3f97ad8)
+
+
 
 
