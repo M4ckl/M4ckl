@@ -12,12 +12,17 @@ My main skills:
   <li>Swift</li>
   <li>SwiftUI</li>
   <li>Figma</li>
-  <li>CSS+HTML</li>
   <li>Docker</li>
-  <li>Python</li>
-  <li>Java</li>
   <li>Git</li>
   <li>Linux and MacOS</li>
+</ul>
+
+Also i know:
+<ul>
+  <li>CSS+HTML</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>Golang</li>
 </ul>
  
 <p>You can find my labs and projects on repositories;</p>
