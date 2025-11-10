@@ -30,7 +30,7 @@ Also i know:
 
   <a href="https://t.me/invercaro">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
   <a href="https://www.facebook.com/share/1Fob4LXFn1/?mibextid=wwXIfr">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-  <a href="[https://www.linkedin.com/in/mikhail-ramaniuk-861428257/]">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/mikhail-ramaniuk-861428257/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
   <h4 align="center"><strong>🛠 Things | I work with:</strong></h4>
 
