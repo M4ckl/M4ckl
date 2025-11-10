@@ -7,8 +7,6 @@ I am passioanate about programming.I really like to learn programming languages 
 
 At the moment I'm learning in University of Lodz;
 
-Currently looking for opportunities to grow and contribute to iOS projects;
-
 My main skills:
 <ul>
   <li>Swift</li>
